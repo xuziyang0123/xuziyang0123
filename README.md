@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi there 👋 I'm Ziyang Xu
 
-<!--
-**xuziyang0123/xuziyang0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
 
-Here are some ideas to get you started:
+🔬 Ph.D. Student at the University of Oklahoma, School of Information Science📚 Research Interests: Academic library information literacy, text mining, and human-computer interaction💡 Currently exploring the disclosure of AI usage in academic writing across disciplines and regions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Research & Projects
+
+📖 Investigating variations in AI usage disclosure in academic publishing
+
+📊 Applying text mining and meta-regression analysis to scholarly communication studies
+
+🏛 Interested in social network analysis and social stratification theory in education and cultural industries
+
+Tech & Tools
+
+🛠 LaTeX (BibLaTeX, Biber) | Python | R | SQL | NVivo | Zotero | Overleaf🔍 Literature search using Google Scholar, EMLearn, and specialized databases
+
+Let's Connect
+
+💬 Feel free to reach out if you’d like to discuss research collaborations, academic writing, or AI in information science!📫 Email: Ziyang.Xu-1@ou.edu🔗 LinkedIn: https://www.linkedin.com/in/ziyang-xu-5ba6b3345/
+
