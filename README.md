@@ -17,7 +17,7 @@
 ## Let's Connect
 💬 **Reach Out:** Open to discussions on research collaborations, academic writing, or AI in information science!  
 📫 **Email:** [Ziyang.Xu-1@ou.edu]  
-🔗 **LinkedIn:** [[your LinkedIn profile](https://www.linkedin.com/in/ziyang-xu-5ba6b3345/)]  
+🔗 **LinkedIn:** [LinkedIn profile](https://www.linkedin.com/in/ziyang-xu-5ba6b3345/)]  
 
 
 ⚡ **Fun Fact:** My name, Ziyang, comes from *Zephyrus*, the Greek god of the west wind!
